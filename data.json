@@ -1,0 +1,10 @@
+{
+    "vk":{
+        "login":"Логин от VK",
+        "password":"Пороль от VK"
+    },
+    "spotify":{
+        "login":"Логин от Spotify",
+        "password":"Пароль от Spotify"
+    }
+}
